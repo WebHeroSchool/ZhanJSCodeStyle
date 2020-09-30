@@ -10,7 +10,7 @@ const items = new Array();
 // хорошо
 const items = [];
 ```
-+ #### Для добавления элемента в массив используйте __[Array#push] вместо прямого присваивания.
++ #### Для добавления элемента в массив используйте [Array#push](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/push) вместо прямого присваивания.
 ``` js
 const someStack = [];
 
